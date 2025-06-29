@@ -1,0 +1,1 @@
+NOTE: pls install t2.large machine becz we need to run many services in upcoming sessions
