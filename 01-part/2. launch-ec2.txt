@@ -1,1 +1,1 @@
-NOTE: pls install t2.large machine becz we need to run many services in upcoming sessions
+NOTE: pls install t2.large and min 25GB machine becz we need to run many services in upcoming sessions
